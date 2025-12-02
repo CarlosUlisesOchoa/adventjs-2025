@@ -6,6 +6,11 @@
 
 Repository containing my solutions for the [AdventJS 2025](https://adventjs.dev/) coding challenges by [midu.dev](https://midu.dev/).
 
+## 🏞️ Images
+
+<img width="1342" height="876" alt="image" src="https://github.com/user-attachments/assets/d0f6fd1d-aadf-469a-89e6-876e9d25781e" />
+
+
 ## 📂 Repository Structure
 
 The solutions are organized by day. Each folder contains the solution file and a `README.md` with the challenge description.
