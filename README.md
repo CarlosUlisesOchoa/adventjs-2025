@@ -28,8 +28,8 @@ The solutions are organized by day. Each folder contains the solution file and a
 
 | \#  | Challenge                     | Difficulty[^1] |                   Description                   |          Solution          |
 | :-: | :---------------------------- | :------------: | :---------------------------------------------: | :------------------------: |
-| 01  | 🎁 Filter the defective gifts |       🟢       | [Show](https://adventjs.dev/challenges/2025/1)  | [Code](./src/01-challenge) |
-| 02  | 🏭 Manufacture the toys       |       🟢       | [Show](https://adventjs.dev/challenges/2025/2)  | [Code](./src/02-challenge) |
+| 01  | 🎁 Filter the defective gifts |       🟢       | [Show](https://adventjs.dev/challenges/2025/1)  | [Code](https://github.com/CarlosUlisesOchoa/adventjs-2025/tree/main/src/challenge-01) |
+| 02  | 🏭 Manufacture the toys       |       🟢       | [Show](https://adventjs.dev/challenges/2025/2)  | [Code](https://github.com/CarlosUlisesOchoa/adventjs-2025/tree/main/src/challenge-02) |
 | 03  | 🔒 _Locked_                   |       ?        | [Show](https://adventjs.dev/challenges/2025/3)  |             -              |
 | 04  | 🔒 _Locked_                   |       ?        | [Show](https://adventjs.dev/challenges/2025/4)  |             -              |
 | 05  | 🔒 _Locked_                   |       ?        | [Show](https://adventjs.dev/challenges/2025/5)  |             -              |
