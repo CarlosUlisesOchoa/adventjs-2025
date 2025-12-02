@@ -49,26 +49,8 @@ The solutions are organized by day. Each folder contains the solution file and a
 | 23  | 🔒 *Locked* |       ?        | [Show](https://adventjs.dev/challenges/2025/23) |                 -                 |
 | 24  | 🔒 *Locked* |       ?        | [Show](https://adventjs.dev/challenges/2025/24) |                 -                 |
 
-## 🚀 How to Run
-
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/CarlosUlisesOchoa/adventjs-2025.git](https://github.com/CarlosUlisesOchoa/adventjs-2025.git)
-    ```
-2.  Install dependencies (if any):
-    ```bash
-    npm install
-    ```
-3.  Run the tests for a specific day:
-    ```bash
-    npm test 01
-    ```
+**Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
 ## 📜 License
 
 This project is licensed under the MIT License.
-
-```
-
-[^1]:
-    **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
