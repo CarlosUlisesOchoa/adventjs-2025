@@ -20,4 +20,34 @@ Keep in mind that if the reindeer picks something up off the floor, it is alread
 
 Important: Keep in mind that in the board the first and last lines are blank and must be discarded.
 
-Examples in the transcription show expected behaviors.
+Example:
+
+```js
+const board = `
+.....
+.*#.*
+.@...
+.....
+`
+
+moveReno(board, 'D')
+// ➞ 'fail' -> it moves but doesn't pick anything up
+
+moveReno(board, 'U')
+// ➞ 'success' -> it picks something up (*) right above
+
+moveReno(board, 'RU')
+// ➞ 'crash' -> it crashes into an obstacle (#)
+
+moveReno(board, 'RRRUU')
+// ➞ 'success' -> it picks something up (*)
+
+moveReno(board, 'DD')
+// ➞ 'crash' -> it crashes into the bottom of the board
+
+moveReno(board, 'UUU')
+// ➞ 'success' -> it picks something up off the floor (*) and then crashes at the top
+
+moveReno(board, 'RR')
+// ➞ 'fail' -> it moves but doesn't pick anything up
+```
