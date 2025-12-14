@@ -36,7 +36,7 @@ The solutions are organized by day. Each folder contains the solution file and a
 | 06  | MATCHING GLOVES            |       🟢       | [Show](https://adventjs.dev/challenges/2025/6)  | [Code](./src/challenge-06) |
 | 07  | DECORATING THE TREE        |       🟠       | [Show](https://adventjs.dev/challenges/2025/7)  | [Code](./src/challenge-07) |
 | 08  | FIND THE UNIQUE TOY        |       🟢       | [Show](https://adventjs.dev/challenges/2025/8)  | [Code](./src/challenge-08) |
-| 09  | THE RENO ROBOT ASPIRATOR   |       🟠       | [Show](https://adventjs.dev/challenges/2025/9)  | [Code](./src/challenge-09) |
+| 09  | THE RENO ROBOT ASPIRATOR   |       🔴       | [Show](https://adventjs.dev/challenges/2025/9)  | [Code](./src/challenge-09) |
 | 10  | DEPTH OF CHRISTMAS MAGIC   |       🟢       | [Show](https://adventjs.dev/challenges/2025/10) | [Code](./src/challenge-10) |
 | 11  | UNWATCHED GIFTS            |       🟢       | [Show](https://adventjs.dev/challenges/2025/11) | [Code](./src/challenge-11) |
 | 12  | ELF BATTLE                 |       🟠       | [Show](https://adventjs.dev/challenges/2025/12) | [Code](./src/challenge-12) |
