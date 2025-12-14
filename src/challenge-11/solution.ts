@@ -1,3 +1,5 @@
+// solution provided by carlos8a.com
+
 function findUnsafeGifts(warehouse: string[]): number {
   const rows = warehouse.length
   const cols = warehouse[0]?.length ?? 0

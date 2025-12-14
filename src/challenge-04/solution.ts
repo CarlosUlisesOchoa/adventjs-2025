@@ -1,4 +1,4 @@
-// solution by repository contributor
+// solution provided by carlos8a.com
 
 function decodeSantaPin(code: string): string | null {
   const blocks = Array.from(code.matchAll(/\[([^\]]+)\]/g), (m) => m[1])

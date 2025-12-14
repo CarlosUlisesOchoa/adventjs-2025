@@ -1,4 +1,4 @@
-// solution by repository contributor
+// solution provided by carlos8a.com
 
 function findUniqueToy(toy: string): string {
   const lower = toy.toLowerCase()

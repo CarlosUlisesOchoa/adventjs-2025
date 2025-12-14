@@ -1,4 +1,4 @@
-// solution stub for challenge 09
+// solution provided by carlos8a.com
 
 function moveReno(board: string, moves: string): string {
   // We parse the board by removing whitespace and splitting by lines

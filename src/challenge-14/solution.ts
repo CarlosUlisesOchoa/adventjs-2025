@@ -1,3 +1,5 @@
+// solution provided by carlos8a.com
+
 function findGiftPath(workshop: Record<string, any>, gift: any): string[] {
   const path: string[] = []
 

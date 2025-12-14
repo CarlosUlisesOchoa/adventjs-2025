@@ -1,3 +1,5 @@
+// solution provided by carlos8a.com
+
 function runFactory(factory: string[]): 'completed' | 'loop' | 'broken' {
   const rows = factory.length
   const cols = factory[0]?.length ?? 0

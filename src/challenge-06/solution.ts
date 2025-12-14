@@ -1,4 +1,4 @@
-// solution by repository contributor
+// solution provided by carlos8a.com
 
 interface Glove {
   hand: 'L' | 'R'

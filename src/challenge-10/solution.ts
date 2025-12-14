@@ -1,4 +1,4 @@
-// solution stub for challenge 10
+// solution provided by carlos8a.com
 
 function maxDepth(s: string): number {
   let depth = 0

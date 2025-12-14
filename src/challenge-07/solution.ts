@@ -1,4 +1,4 @@
-// solution by repository contributor
+// solution provided by carlos8a.com
 
 function drawTree(height: number, ornament: string, frequency: number): string {
   let pos = 1

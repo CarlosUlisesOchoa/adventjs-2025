@@ -1,4 +1,4 @@
-// solution by repository contributor
+// solution provided by carlos8a.com
 
 type ElfDateTime = `${number}*${number}*${number}@${number}|${number}|${number} NP`
 

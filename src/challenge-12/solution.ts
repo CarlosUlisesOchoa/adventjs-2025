@@ -1,3 +1,5 @@
+// solution provided by carlos8a.com
+
 function elfBattle(elf1: string, elf2: string): number {
   let hp1 = 3
   let hp2 = 3
