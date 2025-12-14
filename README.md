@@ -8,7 +8,7 @@ Repository containing my solutions for the [AdventJS 2025](https://adventjs.dev/
 
 ## 🏞️ Images
 
-<img width="1342" height="876" alt="image" src="https://github.com/user-attachments/assets/d0f6fd1d-aadf-469a-89e6-876e9d25781e" />
+<img width="3200" height="2485" alt="adventjs dev_en_challenges_2025_14" src="https://github.com/user-attachments/assets/a7d85e3d-bfce-40cf-9130-68dc8ec630f0" />
 
 ## 📂 Repository Structure
 
