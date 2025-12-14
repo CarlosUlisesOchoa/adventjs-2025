@@ -42,16 +42,16 @@ The solutions are organized by day. Each folder contains the solution file and a
 | 12  | ELF BATTLE                 |       🟠       | [Show](https://adventjs.dev/challenges/2025/12) | [Code](./src/challenge-12) |
 | 13  | THE ASSEMBLY LINE          |       🟠       | [Show](https://adventjs.dev/challenges/2025/13) | [Code](./src/challenge-13) |
 | 14  | FIND THE GIFT PATH         |       🟢       | [Show](https://adventjs.dev/challenges/2025/14) | [Code](./src/challenge-14) |
-| 15  | 🔒 _Locked_                |       ?        | [Show](https://adventjs.dev/challenges/2025/15) | [Code](./src/challenge-15) |
-| 16  | 🔒 _Locked_                |       ?        | [Show](https://adventjs.dev/challenges/2025/16) | [Code](./src/challenge-16) |
-| 17  | 🔒 _Locked_                |       ?        | [Show](https://adventjs.dev/challenges/2025/17) | [Code](./src/challenge-17) |
-| 18  | 🔒 _Locked_                |       ?        | [Show](https://adventjs.dev/challenges/2025/18) | [Code](./src/challenge-18) |
-| 19  | 🔒 _Locked_                |       ?        | [Show](https://adventjs.dev/challenges/2025/19) | [Code](./src/challenge-19) |
-| 20  | 🔒 _Locked_                |       ?        | [Show](https://adventjs.dev/challenges/2025/20) | [Code](./src/challenge-20) |
-| 21  | 🔒 _Locked_                |       ?        | [Show](https://adventjs.dev/challenges/2025/21) | [Code](./src/challenge-21) |
-| 22  | 🔒 _Locked_                |       ?        | [Show](https://adventjs.dev/challenges/2025/22) | [Code](./src/challenge-22) |
-| 23  | 🔒 _Locked_                |       ?        | [Show](https://adventjs.dev/challenges/2025/23) | [Code](./src/challenge-23) |
-| 24  | 🔒 _Locked_                |       ?        | [Show](https://adventjs.dev/challenges/2025/24) | [Code](./src/challenge-24) |
+| 15  | 🔒 _Locked_                |       ?        | [Show](https://adventjs.dev/challenges/2025/15) |            ???             |
+| 16  | 🔒 _Locked_                |       ?        | [Show](https://adventjs.dev/challenges/2025/16) |            ???             |
+| 17  | 🔒 _Locked_                |       ?        | [Show](https://adventjs.dev/challenges/2025/17) |            ???             |
+| 18  | 🔒 _Locked_                |       ?        | [Show](https://adventjs.dev/challenges/2025/18) |            ???             |
+| 19  | 🔒 _Locked_                |       ?        | [Show](https://adventjs.dev/challenges/2025/19) |            ???             |
+| 20  | 🔒 _Locked_                |       ?        | [Show](https://adventjs.dev/challenges/2025/20) |            ???             |
+| 21  | 🔒 _Locked_                |       ?        | [Show](https://adventjs.dev/challenges/2025/21) |            ???             |
+| 22  | 🔒 _Locked_                |       ?        | [Show](https://adventjs.dev/challenges/2025/22) |            ???             |
+| 23  | 🔒 _Locked_                |       ?        | [Show](https://adventjs.dev/challenges/2025/23) |            ???             |
+| 24  | 🔒 _Locked_                |       ?        | [Show](https://adventjs.dev/challenges/2025/24) |            ???             |
 
 **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
